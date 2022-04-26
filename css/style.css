@@ -1,0 +1,117 @@
+/*
+    Author:                 Brycen Dunn
+    Date:                   03.08.22
+    Last Revised:           03.10.22
+    Assignment:             Lab7
+    Purpose                 Template for Lab 7
+ */
+
+div.Header{
+    position:relative;
+    text-align:center;
+    width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+div.header1{
+    position:absolute;
+    right: 280px;
+    bottom: 95px;
+    margin: 10px auto;
+    color: #FDFFFC;
+}
+div.header2{
+    position:absolute;
+    right: 90px;
+    bottom: 95px;
+    margin: 10px auto;
+    color: #FDFFFC;
+}
+div.header3{
+    position:absolute;
+    right: 15px;
+    bottom: 95px;
+    margin: 10px auto;
+    color: #FDFFFC;
+}
+h1 {
+    text-align: right;
+}
+
+div.head2
+{
+    margin: -25px;
+    right: 400px;
+    bottom: 40px;
+    line-height: 1.5;
+    width: 650px;
+}
+
+
+body{
+    color: #003049;
+    font-family: AppleGothic;
+}
+
+div.Image1
+{
+    float:left;
+    margin-left: 15px;
+
+}
+div.Image2
+{
+    float: right;
+    margin-right:15px;
+
+}
+div.Image3
+{
+    float: right;
+    margin-right: 80px;
+}
+
+div.border{
+    width: 800px;
+    margin: auto;
+    padding: 5px 5px;
+    border-width: 5px;
+    border-color: #003049;
+    border-style: solid;
+}
+
+nav a {
+    float: right;
+    display: block;
+    width: 125px;
+    color: #FFF;
+    padding:0px;
+}
+
+nav a:link, nav a:visited {
+    margin-right: 0px;
+    border-radius: 0px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 0px;
+    top: -35px;
+    font-size: 20px;
+}
+
+nav a:hover, nav a:active, .current {
+    color: #e78f3e;
+    border-bottom: 4px solid #4D8B31;
+}
+
+footer{
+    background-color: #003049;
+    color: #FDFFFC;
+    width: auto;
+    padding: 1px;
+    text-align: right;
+    height: 45px;
+    margin-top: 300px;
+
+
+}
