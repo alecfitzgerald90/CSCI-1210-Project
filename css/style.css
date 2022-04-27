@@ -1,5 +1,6 @@
 /*
    Authors: Calen Cummings, Brycen Dunn, Alec Fitzgerald, Ciarán Drinnon, Breanna Ford
+   CSS main author: Brycen Dunn
  */
 
 div.Header{
@@ -94,8 +95,9 @@ div.border{
 
 nav a {
     float: right;
+    transform: translate(-15px);
     display: block;
-    width: 125px;
+    width: 130px;
     color: #FFF;
     padding:0px;
 }
