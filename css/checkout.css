@@ -32,7 +32,7 @@ img {
 nav a {
     margin-right: 15px;
     font-size: 25px;
-    color: #fcbf49;
+    color: #fdfffc;
     text-decoration: none;
 }
 nav a:hover, nav a:active, .current {
@@ -94,7 +94,7 @@ h3 {
     margin: 5px 0;
     cursor:pointer;
     font-size: 25px;
-    color: #fcbf49;
+    color: #fdfffc;
     font-weight: bolder;
 }
 
@@ -105,7 +105,7 @@ h3 {
 
 footer{
     background-color: #003049;
-    color: #fcbf49;
+    color: #fdfffc;
     width: auto;
     padding: 1px;
     text-align: right;
