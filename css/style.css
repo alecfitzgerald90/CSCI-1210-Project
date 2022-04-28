@@ -69,19 +69,19 @@ body{
 div.Image1
 {
     float:left;
-    margin-left: 15px;
+    margin-left:15px;
 
 }
 div.Image2
 {
     float: right;
-    margin-right: -5px;
+    margin-right: -20px;
 
 }
 div.Image3
 {
     float: right;
-    margin-right: 35px;
+    margin-right: 39px;
 }
 
 div.border{
@@ -124,7 +124,7 @@ nav a:hover, nav a:active, .current {
 
 h2 {
     font-style: italic;
-    transform: translate(-45px);
+    transform: translate(-60px);
 }
 h3
 
