@@ -93,6 +93,10 @@ div.border{
     border-style: solid;
 }
 
+nav {
+   padding-bottom: 15px;   
+}
+
 nav a {
     float: right;
     transform: translate(-15px);
