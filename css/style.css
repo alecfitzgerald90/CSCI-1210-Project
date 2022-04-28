@@ -126,6 +126,11 @@ h2 {
     font-style: italic;
     transform: translate(-45px);
 }
+h3
+
+{
+    font-size: 25px;
+}
 
 footer{
     background-color: #003049;
