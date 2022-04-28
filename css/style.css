@@ -118,6 +118,10 @@ nav a:hover, nav a:active, .current {
     border-bottom: 4px solid #4D8B31;
 }
 
+h2 {
+    font-style: italic;
+}
+
 footer{
     background-color: #003049;
     color: #FDFFFC;
